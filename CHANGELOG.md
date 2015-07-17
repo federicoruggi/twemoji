@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Export JSON for SVG and PNG (16x16, 36x36, 72x72) [#18](https://github.com/jollygoodcode/twemoji/pull/15)
+
 ## 2.0.0 - 2015.05.29
 
 - **Breaking change**: `Tewmoji.parse` `img_attr` option changed to `img_attrs` [#16](https://github.com/jollygoodcode/twemoji/pull/16)
