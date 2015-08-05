@@ -7,6 +7,11 @@ require "twemoji/configuration"
 # Twemoji is a Ruby implementation, parses your text, replace emoji text
 # with corresponding emoji image. Default emoji images are from Twiiter CDN.
 module Twemoji
+  # Get the codes hash
+  def self.codes_hash
+    CODES
+  end
+
   # Find code by text, find text by code, and find text by unicode.
   #
   # @example Usage
