@@ -7,7 +7,7 @@ module Twemoji
   # @return [Hash<String => String>]
   # @private
   CODES = {
-  ":)"                                 => "1f604",
+  ":\)"                                 => "1f604",
   ":smile:"                           => "1f604",
   ":laughing:"                        => "1f606",
   ":blush:"                           => "1f60a",
@@ -21,7 +21,7 @@ module Twemoji
   ":relieved:"                        => "1f625",
   ":satisfied:"                       => "1f60c",
   ":grin:"                            => "1f601",
-  ";)"                            => "1f609",
+  ";\)"                            => "1f609",
   ":wink:"                            => "1f609",
   ":stuck_out_tongue_winking_eye:"    => "1f61c",
   ":stuck_out_tongue_closed_eyes:"    => "1f61d",
@@ -43,7 +43,7 @@ module Twemoji
   ":sweat:"                           => "1f613",
   ":weary:"                           => "1f629",
   ":pensive:"                         => "1f614",
-  ":("                    => "1f61e",
+  ":\("                    => "1f61e",
   ":disappointed:"                    => "1f61e",
   ":confounded:"                      => "1f616",
   ":fearful:"                         => "1f628",
@@ -98,7 +98,7 @@ module Twemoji
   ":musical_note:"                    => "1f3b5",
   ":fire:"                            => "1f525",
   ":poop:"                            => "1f4a9",
-  ":+1:"                        => "1f44d",
+  ":\+1:"                        => "1f44d",
   ":thumbsup:"                        => "1f44d",
   ":-1:"                      => "1f44e",
   ":thumbsdown:"                      => "1f44e",
